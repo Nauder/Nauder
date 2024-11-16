@@ -1,9 +1,47 @@
-<a href="#">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=nauder&show_icons=true&hide_rank=true&theme=dark">
-</a>
-<a href="#">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauder&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark">
-</a><br><br>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nauder&theme=dark">
-</a>
+# 👋 Hello, I'm Nauder 
+
+<a href="https://www.linkedin.com/in/nauder/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:prestes.nauder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square&logoColor=white" alt="Email"></a>
+
+### 🚀 About Me  
+I'm a Brazilian **Data Engineer** currently working in the healthcare sector, where I focus on designing and implementing innovative data solutions to improve decision making processes.
+
+<hr>
+
+### 🛠️ Top Skills
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="git"></code>
+
+### ⚙️ Favorite Tools
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="git"></code>
+
+### 🌐 Languages
+- English: C2 ([EFSET certified](https://cert.efset.org/7WAHX6)).
+- Portuguese: Native language.
+
+<details>
+  <summary><b>📈 GitHub Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nauder&show_icons=true&hide_rank=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauder&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark"/>
+</details>
+
+<details>
+  <summary><b>📊 WakaTime Stats</b></summary>
+
+  <br />
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nauder&theme=dark">
+  </a>
+</details>
